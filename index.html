@@ -9,15 +9,31 @@
 <body>
     <div class="caixa-principal">
         <h1>A sua jornada vai começar!</h1>
+        <div class="tela-inicial">
+            <p>
+                Ao atravessar um portal misterioso que surgiu em sua escola, você é transportado para uma dimensão paralela onde a gravidade se comporta de maneira diferente e criaturas estranhas habitam um mundo repleto de desafios e segredos. Enfrente a infestação de cogumelos milenares que ameaça destruir essa dimensão. Sua missão? Chegar à árvore conhecida como "o coração da dimensão" para salvar esta dimensão e encontrar o caminho de volta para casa.
+            </p>
+            <button class="inicia-btn btn">Atravessar o Portal</button>
+        </div>
         <div class="caixa-perguntas"></div>
         <div class="caixa-alternativas"></div>
-        <div class="caixa-resultado"></div>
-        <p class="texto-resultado"></p>
-        <button class="novamente-btn"></button>
+        <div class="caixa-resultado">
+            <p class="texto-resultado"></p>
+            <button class="novamente-btn btn">
+            jogar novamente
+            <div id="particulas">
+              <div id="particula"></div>
+            </div>
+            <div id="brilho">
+              <div class="circulo"></div>
+              <div class="circulo"></div>
+            </div>
+        </button>
     </div>
 </div>
 <script type="module" src="./assets/asks.js"></script>
 <script type="module" src="./assets/random.js"></script>
 <script type="module" src="./assets/main.js"></script>
+
 </body>
 </html>
