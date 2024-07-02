@@ -1,102 +1,97 @@
 export const perguntas = [
     {
-        enunciado: "Assm que você saiu de casa se deparou com um animal que consegue falar, e ele afirma que pode conceder todos os seus desejos. Qual o primeiro pensamento?",
+        enunciado: "Ao explorar uma antiga ruína em uma floresta mística, você encontra um portal brilhante que o transporta para outra dimensão. Ao chegar, você se depara com uma criatura falante que diz poder realizar todos os seus desejos. Qual é o seu primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
-                    "A primeira vista ficou um pouco assustado com esse ser.",
-                    "Se depara com o animal e questionamentos surgem em sua mente.\"Uau! isso é um sonho? como isso é possível?\""
+                    "Você se sente um pouco assustado ao ver essa criatura surreal.",
+                    "Questiona-se: \"Isso é real? Como isso é possível?\" enquanto encara a criatura."
                 ]
             },
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: [
-                    "Quis saber se isso era mesmo possível, então decidiu fazer o seu primeiro desejo.",
-                    "afirmacão 2 OooooooooooooOOo"
+                    "Você fica maravilhado e imediatamente pensa em fazer um desejo.",
+                    "Entusiasmado, você decide testar a veracidade dos poderes da criatura."
                 ]
             }           
-            
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre elaIA. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de tecnologia em sala de aula. Qual atitude você toma?",
+        enunciado: "Você continua sua jornada e chega a uma dimensão onde o tempo flui de maneira diferente. Aqui, o dia e a noite duram apenas algumas horas, e o ambiente está em constante mudança. Como você decide explorar essa dimensão?",
         alternativas: [
             {
-                texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:[
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "afirmacão 2 OooooooooooooOOo"
+                texto: "Investigar as mudanças do ambiente e tentar entender o ciclo temporal.",
+                afirmacao: [
+                    "Você observa atentamente as transições rápidas entre dia e noite.",
+                    "Descobre padrões interessantes que podem ser úteis em sua jornada."
                 ]
             },
             {
-                texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:[
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "afirmacão 2 OooooooooooooOOo"
+                texto: "Buscar abrigo e esperar até que o ambiente se estabilize.",
+                afirmacao: [
+                    "Você encontra um local seguro para se proteger das mudanças constantes.",
+                    "Utiliza o tempo no abrigo para planejar seus próximos passos com calma."
                 ]
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Em uma dimensão subaquática, você encontra uma cidade antiga submersa. Para explorar a cidade, você precisa escolher um meio de locomoção. Qual você escolhe?",
         alternativas: [
             {
-                texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao:[
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "afirmacão 2 OooooooooooooOOo"
+                texto: "Usar um traje de mergulho especial que permite respirar debaixo d'água.",
+                afirmacao: [
+                    "Você veste o traje e se maravilha com a beleza da cidade submersa.",
+                    "Descobre ruínas antigas e segredos escondidos nas profundezas."
                 ]
             },
             {
-                texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao:[
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "afirmacão 2 OooooooooooooOOo"
+                texto: "Montar em uma criatura marinha amigável que conhece bem a cidade.",
+                afirmacao: [
+                    "A criatura te guia pelas áreas mais incríveis da cidade submersa.",
+                    "Aprende sobre a história da cidade através dos olhos da criatura."
                 ]
             }
-            
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Ao chegar em uma dimensão de deserto interminável, você encontra uma caravana de nômades que se oferece para te guiar. Qual é a sua abordagem?",
         alternativas: [
             {
-                texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao:[
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes",
-                    "afirmacão 2 OooooooooooooOOo"
+                texto: "Aceitar a ajuda dos nômades e viajar com a caravana.",
+                afirmacao: [
+                    "Você se junta à caravana e aprende sobre as tradições e habilidades dos nômades.",
+                    "Descobre o oásis secreto que eles protegem e compartilham apenas com os dignos."
                 ]
             },
             {
-                texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao:[
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
-                    "afirmacão 2 OooooooooooooOOo"
+                texto: "Recusar a ajuda e tentar atravessar o deserto sozinho.",
+                afirmacao: [
+                    "Você decide seguir seu próprio caminho, confiando em sua intuição.",
+                    "Enfrenta desafios extremos, mas ganha uma experiência inestimável."
                 ]
             }
-            
         ]
     },
     {
-        enunciado: " Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda de uma IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz?",
+        enunciado: "Finalmente, você chega a uma dimensão onde cada pensamento seu se materializa instantaneamente. Como você lida com esse poder?",
         alternativas: [
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao:[
-                    "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo.",
-                    "afirmacão 2 OooooooooooooOOo"
+                texto: "Focar em pensamentos positivos e criativos para moldar o ambiente ao seu redor.",
+                afirmacao: [
+                    "Você cria um ambiente harmonioso e cheio de maravilhas.",
+                    "Descobre que seus pensamentos podem influenciar não só o ambiente, mas também as criaturas ao seu redor."
                 ]
             },
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao:[
-                    "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. ",
-                    "afirmacão 2 OooooooooooooOOo"
+                texto: "Tentar controlar seus pensamentos para evitar que algo perigoso se materialize.",
+                afirmacao: [
+                    "Você se esforça para manter a mente calma e controlada.",
+                    "Aprende técnicas de meditação para ajudar a manter o foco e a segurança."
                 ]
             }
-            
-            
         ]
-    },
+    }
 ];
