@@ -1,19 +1,19 @@
 export const perguntas = [
     {
-        enunciado: "Ao explorar uma antiga ruína em uma floresta mística, você encontra um portal brilhante que o transporta para outra dimensão. Ao chegar, você se depara com uma criatura falante que diz poder realizar todos os seus desejos. Qual é o seu primeiro pensamento?",
+        enunciado: "Ao explorar uma antiga ruína em uma floresta mística, você encontra um portal brilhante que o transporta para outra dimensão. Ao atravessa-lo, você se depara com uma criatura falante que diz poder realizar todos os seus desejos. Qual é o seu primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Wow, isso é assustador!",
                 afirmacao: [
-                    "Você se sente um pouco assustado ao ver essa criatura surreal.",
+                    "Você se sente um pouco assustado com isso.",
                     "Questiona-se: \"Isso é real? Como isso é possível?\" enquanto encara a criatura."
                 ]
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "É mesmo possível? quero testar!",
                 afirmacao: [
                     "Você fica maravilhado e imediatamente pensa em fazer um desejo.",
-                    "Entusiasmado, você decide testar a veracidade dos poderes da criatura."
+                    "Entusiasmado, você decide testar os poderes da criatura e conhece-la um pouco mais."
                 ]
             }           
         ]
