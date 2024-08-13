@@ -24,4 +24,4 @@ export function aleatorio(lista){
 
 export const nome = aleatorio(nomes);
 export const pessoaAleatoria = aleatorio(nomes);
-export const posicaoPessoaAleatoria = nomes.indexOf(pessoaAleatoria); // função que retorna a posição
+export const posicaoPessoaAleatoria = nomes.indexOf(pessoaAleatoria); // função para retornar a posição
